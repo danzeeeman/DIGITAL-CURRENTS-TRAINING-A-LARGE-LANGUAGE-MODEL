@@ -2,9 +2,6 @@
     "version": "0.0.0",
     "data": [
         {
-            "a": "<s> ###instruction: what is the outcome of pitcher 407793 pitching to batter 114844 ###input: Top of the 1 inning with 0 outs\n ###output: 407793 throws for a ball\n407793 throws for a ball\n407793 throws for a ball\n407793 throws for a strike\n407793 throws for a strike\n407793 throws for a strike\n407793 throws for a ball and 114844 walks\n event: walk </s>"
-        },
-        {
             "a": "<s> ###instruction: what is the outcome of pitcher 407793 pitching to batter 113946 ###input: Top of the 1 inning with 0 outs\n ###output: 407793 throws for a ball\n407793 throws for a strike\n407793 throws and 113946 hits a single\n event: single </s>"
         },
         {
