@@ -1,0 +1,8 @@
+*.pickle
+*.bin
+*.pt
+*.pth
+config.json
+training_state.json
+./models/mlb/runs/*
+
