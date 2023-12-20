@@ -21,10 +21,10 @@ You can see my work at [Make It Do A Thing Dot Com](http://makeitdoathing.com)
 
 ## When?
 
-- Friday 02/02/2024 from 12:00 - 16:00
-- Friday 02/09/2024 from 12:00 - 16:00
-- Friday 02/23/2024 from 12:00 - 16:00
-- Friday 03/01/2024 from 12:00 - 16:00
+- Friday 02/02/2024 from 12:00 - 15:00
+- Friday 02/09/2024 from 12:00 - 15:00
+- Friday 02/23/2024 from 12:00 - 15:00
+- Friday 03/01/2024 from 12:00 - 15:00
 
 ## Where?
 
