@@ -1,3 +1,6 @@
+# DIGITAL CURRENTS: TRAINING A LARGE-LANGUAGE MODEL
+
+
 ## Who?
 
 I'm Dan Moore [he/him], I'm an Artist, Designer, and Technologist based here in New York City. I design and build interactive activations and applications.
