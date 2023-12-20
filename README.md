@@ -1,4 +1,4 @@
-[Discord Link](https://discord.gg/3h3pFK4vDz)
+## [Discord Server](https://discord.gg/3h3pFK4vDz)
 
 ## Who?
 
