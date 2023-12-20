@@ -10,7 +10,7 @@ You can see my work at [Make It Do A Thing Dot Com](http://makeitdoathing.com)
 
 ## What?
 
-- How LLM are created
+- How LLMs are created
 - How to interact with LLMs
 
 Technology: 
