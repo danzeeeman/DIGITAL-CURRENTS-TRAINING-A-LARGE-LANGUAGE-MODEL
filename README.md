@@ -41,8 +41,8 @@ Room 1108
 ## Resources
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)
-- [Week 1](00_week_1.md)
-- [Week 2](01_week_2.md)
-- [Week 3](02_week_3.md)
-- [Week 4](03_week_4.md)
+- [Week 1](00_week_01.md)
+- [Week 2](01_week_02.md)
+- [Week 3](02_week_03.md)
+- [Week 4](03_week_04.md)
 - ### [Discord Server](https://discord.gg/3h3pFK4vDz)
