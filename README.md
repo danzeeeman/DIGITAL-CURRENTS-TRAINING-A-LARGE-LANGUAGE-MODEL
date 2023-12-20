@@ -9,7 +9,7 @@ I currently work with Artificial Intelligence and Robotics to investigate Pop Cu
 
 You can see my work at [Make It Do A Thing Dot Com](http://makeitdoathing.com)
 
-[Instagram](https://www.instagram.com/danzeeeman/)
+You can follow me on my [instagram](https://www.instagram.com/danzeeeman/)
 
 ## What?
 
