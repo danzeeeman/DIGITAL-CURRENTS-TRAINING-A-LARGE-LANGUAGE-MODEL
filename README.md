@@ -1,5 +1,3 @@
-## [Discord Server](https://discord.gg/3h3pFK4vDz)
-
 ## Who?
 
 I'm Dan Moore [he/him], I'm an Artist, Designer, and Technologist based here in New York City. I design and build interactive activations and applications.
@@ -30,9 +28,11 @@ Technology:
 - Discussion: Why did you take this course?
 - Discussion: What do you hope to take away?
 
-Syllabus
-Schedule
-Week 1
-Week 2
-Week 3
-Week 4
+[Syllabus](syllabus.md)
+[Schedule](schedule.md)
+[Week 1](00_week_1.md)
+[Week 2](01_week_2.md)
+[Week 3](02_week_3.md)
+[Week 4](03_week_4.md)
+
+## [Discord Server](https://discord.gg/3h3pFK4vDz)
