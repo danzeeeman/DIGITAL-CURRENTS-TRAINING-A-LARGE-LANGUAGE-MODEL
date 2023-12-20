@@ -20,6 +20,10 @@ Technology:
 
 ## When?
 
+Friday 02/02/2024
+Friday 02/09/2024
+Friday 02/23/2024
+Friday 03/01/2024
 
 ## Where?
 
