@@ -31,6 +31,7 @@ Technology:
 ## Where?
 
 Room 1108
+
 6 East 16th Street
 
 ## Why?
