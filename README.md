@@ -20,12 +20,15 @@ Technology:
 
 ## When?
 
-Friday 02/02/2024
-Friday 02/09/2024
-Friday 02/23/2024
-Friday 03/01/2024
+- Friday 02/02/2024 from 12:00 - 16:00
+- Friday 02/09/2024 from 12:00 - 16:00
+- Friday 02/23/2024 from 12:00 - 16:00
+- Friday 03/01/2024 from 12:00 - 16:00
 
 ## Where?
+
+Room 1108
+6 East 16th Street
 
 ## Why?
 
