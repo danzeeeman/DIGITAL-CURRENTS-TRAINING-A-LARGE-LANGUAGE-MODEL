@@ -15,11 +15,9 @@ You can see my work at [Make It Do A Thing Dot Com](http://makeitdoathing.com)
 
 - How LLMs are created
 - How to interact with LLMs
-
-Technology: 
-- Google Colab
-- Transformers
-- Huggingface
+- How to use Google Colab
+- How to use Transformers
+- How to use Huggingface
 
 ## When?
 
