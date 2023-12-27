@@ -1,10 +1,13 @@
-#  Dan Moore
+#  Digital Currents - Training Large Language Models by Dan Moore
 
-### 
+### Digital Currents - Training Large Language Models
 ### COD 2012, Spring 2024 (CRN 11855)
 ### Dan Moore, moored1@newschool.edu
-### Fridays, 12:00 – 3:00 pm
-### 6 East 16th Street, Room: 1106
+### Friday 02/02/2024 from 12:00 - 15:00
+### Friday 02/09/2024 from 12:00 - 15:00
+### Friday 02/23/2024 from 12:00 - 15:00
+### Friday 03/01/2024 from 12:00 - 15:00
+### 6 East 16th Street, Room: 1108
 ### Office hours:  By appointment — email me to schedule!
 
 [DISCORD INVITE](https://discord.gg/USWhVSQdeE)
