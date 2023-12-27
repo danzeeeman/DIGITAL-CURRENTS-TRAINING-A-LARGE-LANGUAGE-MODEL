@@ -1,19 +1,16 @@
-# Code Toolkit: Python, Fall 2023 – LCOD 2012 – Dan Moore
+#  Dan Moore
 
-### Code Toolkit: Python
-### COD 2012, Fall 2023 (CRN 11855)
+### 
+### COD 2012, Spring 2024 (CRN 11855)
 ### Dan Moore, moored1@newschool.edu
-### Wednesday, 9:00 – 11:40am
-### 6 East 16th Street, Room: 602
+### Fridays, 12:00 – 3:00 pm
+### 6 East 16th Street, Room: 1106
 ### Office hours:  By appointment — email me to schedule!
 
 [DISCORD INVITE](https://discord.gg/USWhVSQdeE)
 
 ## Course Description
-This course provides a basic introduction to coding for students with no prior experience using the Python 
-computer language. It will introduce the use of computing and algorithms to web design, data analysis and 
-visualization, and game design. Students will complete integrative projects within each of these areas, and leave the class with a strong foundation in the use of Python across a range of applications. Access to a working laptop will be expected throughout the semester. This course fulfills the Integrative Course 
-requirement of the Culture and Media major.
+This course provides a basic introduction to Large Language Models (LLMs).
 
 ## Class Website & Email
 
@@ -201,7 +198,7 @@ first day, and is included below.
 
 # Week One
 ## Tokenizers : It's all about the tokens
-## Trnasformers 
+## Transformers 
 ## Prompt Engineering 101
 ## Setting Up a Development Environment an introduction to Google Collab
 ## Training a Tokenizer and a Transformer 

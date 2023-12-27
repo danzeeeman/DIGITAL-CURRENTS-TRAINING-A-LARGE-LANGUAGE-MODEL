@@ -1,6 +1,6 @@
 # Week One
 ## Tokenizers : It's all about the tokens
-## Trnasformers 
+## Transformers 
 ## Prompt Engineering 101
 ## Setting Up a Development Environment an introduction to Google Collab
 ## Training a Tokenizer and a Transformer 
