@@ -17,6 +17,7 @@ You can follow me on my [instagram](https://www.instagram.com/danzeeeman/)
 - How to use Google Colab
 - How to use Transformers
 - How to use Huggingface
+- What's with LLMs
 
 ## When?
 
