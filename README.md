@@ -1,41 +1,47 @@
-# Navigating the Digital Frontier:: A closer look at AI
+# DIGITAL CURRENTS: TRAINING A LARGE-LANGUAGE MODEL
 
-## Possible Section Titles 
+## Who?
 
-## Transformers
-### "Transformer Tamers: Cracking the AI Code"
-### "Unleashing the Machine: Mastering Transformers"
-### "Voltage Visionaries: Training the Transformer"
-### "Data Dynamo: A Course on Training Transformers"
-### "Robot Rebellion: Teaching Transformers Who's Boss"
-### "Flipping the Switch: A Guide to Transformer Mastery"
-### "Watt's Up, Transformers? Training for Power and Precision"
-### "Silicon Sorcery: The Art of Transformer Training"
-### "Jolted Journeys: Navigating the World of Transformers"
-### "Zap, Snap, and Code: A Crash Course in Transformers"
+I'm Dan Moore [he/him], I'm an Artist, Designer, and Technologist based here in New York City. I design and build interactive activations and applications.
 
-## Ethics
-### Transforming Transformers: Making AI Less 'Megatron' More Ethical
-### Ethics for LLM Wranglers: Herding AI with a Moral Lasso 
-### "Wrestling with Transformers: Taming AI Titans"
-### "Transforming Transformers: The Art of AI Obedience"
-### "Shock and Awe: Ethical Training for Transformers"
-### "Mastering Machines: Transformer Ethics Unleashed"
-### "From Autobots to Ethics-bots: Training Transformers Right"
-### "Transformers Unplugged: A Shockingly Ethical Journey"
-### "Elevate and Educate: Ethics in Transformer Training"
-### "Rise of the Ethical Machines: Taming the Transformer"
-### "Deceptively Ethical: Training Transformers for Good"
-### "Turning Tables on Transformers: Ethical Code Mastery"
+I currently work with Artificial Intelligence and Robotics to investigate Pop Culture. I have most recently exhibited _The Vivid Unknown_ at IDFA:DocLab in Amsterdam and the _airegan*_ project at the Vancouver Art Gallery during _The Imitation Game: Visual Culture in the Age of Artificial Intelligence_.  I hold a Masters of Tangible Interaction Design from Carnegie Mellon’s College of Fine Art, where I studied and worked out of the Frank-Ratchye STUDIO for Creative Inquiry under the guidance of Golan Levin.  I was a virtual research fellow in the Free Art and Technology, F.A.T., Lab. I am currently a Technical Artist in NVIDIA’s Creative Department and an adjunct professor at The New School.
 
-## Scraping
-### "Scraping the Web (Without Getting Scraped Knees): Ethical Data Gathering"
-### "Web Ninja Ethics: Mastering the Art of Data Extraction"
-### "Data Diving: The Gentleman's Guide to Ethical Web Scraping"
-### "Spider Sensei: Learning to Crawl the Web Ethically"
-### "Scraping Secrets: Unearthing Data with Style and Integrity"
-### "The Data Detective's Handbook: Ethics in Web Scraping"
-### "Web Scraping with a Halo: An Ethical Approach to Data Collection"
-### "Scrape, Rattle, and Roll: A Wholesome Web Scraping Adventure"
-### "Ethical Data Miners Unite: Taming the Wild Web for Good"
-### "Scraping Without Scandal: Mastering the Art of Ethical Data Harvesting"
+You can see my work at [Make It Do A Thing Dot Com](http://makeitdoathing.com)
+
+You can follow me on my [instagram](https://www.instagram.com/danzeeeman/)
+
+## What?
+
+- How LLMs are created
+- How to interact with LLMs
+- How to use Google Colab
+- How to use Transformers
+- How to use Huggingface
+- What's with LLMs
+
+## When?
+
+- Friday 02/02/2024 from 12:00 - 15:00
+- Friday 02/09/2024 from 12:00 - 15:00
+- Friday 02/23/2024 from 12:00 - 15:00
+- Friday 03/01/2024 from 12:00 - 15:00
+
+## Where?
+
+Room 1108
+
+6 East 16th Street
+
+## Why?
+
+- Discussion: Why did you take this course?
+- Discussion: What do you hope to take away?
+
+## Resources
+- [Syllabus](syllabus.md)
+- [Schedule](schedule.md)
+- [Week 1](00_week_01.md)
+- [Week 2](01_week_02.md)
+- [Week 3](02_week_03.md)
+- [Week 4](03_week_04.md)
+- ### [Discord Server](https://discord.gg/3h3pFK4vDz)
