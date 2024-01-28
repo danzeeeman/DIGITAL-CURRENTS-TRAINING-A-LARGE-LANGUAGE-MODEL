@@ -6,8 +6,8 @@
 ## Training a Tokenizer and a Transformer 
 
 ### Rendings DUE NEXT WEEK
-[One](readings\program-give-ai-ethics-sometimes.pdf)
-[Two](readings\Scrapism-A-Manifesto.pdf)
+- [Scrapism A Manifesto](./readings/Scrapism-A-Manifesto.pdf)
+- [A Radical Plan to make AI Good, Not Evil](./readings/anthropic-ai-chatbots-ethics.pdf)
 
 ### Howwork
 1. Write a applet that interfaces with an LLM (self hosted or something online) that allows the user to either speak or type to it and it answer back anything but make it unique
@@ -42,8 +42,12 @@
    3. Due Week 4
 
 ### Readings DUE NEXT WEEK
-[One](readings\anthropic-ai-chatbots-ethics.pdf)
-[Two](readings\philosophy-artificial-intelligence-responsibility-gap.pdf)
+# Reading List
+- [The impact of artificial intelligence on human society and bioethics](./readings/TCMJ-32-339.pdf)
+- [This Program can give AI a sense of Ethics -Sometimes](./readings/program-give-ai-ethics-sometimes.pdf)
+- [The Case for Outsourcing Morality to AI](./readings/philosophy-artificial-intelligence-responsibility-gap.pdf)
+- [A Radical Plan to make AI Good, Not Evil](./readings/anthropic-ai-chatbots-ethics.pdf)
+- [Great promise but potential for peril](./readings/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role.pdf)
 
 # Week 3
 ## Creating with LLMs (lecture)
