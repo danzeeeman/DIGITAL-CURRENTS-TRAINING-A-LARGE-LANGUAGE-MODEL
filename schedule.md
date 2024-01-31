@@ -5,7 +5,7 @@
 ## Setting Up a Development Environment an introduction to Google Collab (interactive coding)
 ## Training a Tokenizer and a Transformer (interactive coding)
 
-### Howwork
+### Homework
 1. Write a applet that interfaces with an LLM (self hosted or something online) that allows the user to either speak or type to it and it answer back anything but make it unique
    1. Examples 
       1. An App that always answers like Larry David
@@ -35,7 +35,7 @@
 ### Formatting: Writing the Proto-Prompts (activity)
 ### Evaluating your data (interactive coding)
 
-### Howwork
+### Homework
 1. Write a script that builds structured data find a dataset online and convert it to a prompt
    1. Think about what problem you are trying to solve and what data you need to give it
    2. Format that data in a way you can parse from the output of an LLM
