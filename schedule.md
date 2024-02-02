@@ -1,11 +1,11 @@
 # Week One
-## Tokenizers : It's all about the tokens (lecture)
-## Transformers (lecture)
-## Prompt Engineering 101 (interactive coding)
-## Setting Up a Development Environment an introduction to Google Collab (interactive coding)
-## Training a Tokenizer and a Transformer (interactive coding)
+- Tokenizers : It's all about the tokens (lecture)
+- Transformers (lecture)
+- Prompt Engineering 101 (interactive coding)
+- Setting Up a Development Environment an introduction to Google Collab (interactive coding)
+- Training a Tokenizer and a Transformer (interactive coding)
 
-### Howwork
+### Homework
 1. Write a applet that interfaces with an LLM (self hosted or something online) that allows the user to either speak or type to it and it answer back anything but make it unique
    1. Examples 
       1. An App that always answers like Larry David
@@ -26,16 +26,16 @@
 # BOOKS DUE WEEK 4
 
 # Week 2 Telling a story with Data
-## Ethics of Data Collection :: What is really is Fair Use?   (lecture)
-## Data Collection and Scraping Techniques  (interactive coding)
-### Scraping as Art  (lecture)
-### Beautiful Soup (interactive coding)
-### Open(ish) Data Sources  (lecture)
-### Identifying Bias in your Data  (lecture)
-### Formatting: Writing the Proto-Prompts (activity)
-### Evaluating your data (interactive coding)
+- Ethics of Data Collection :: What is really is Fair Use?   (lecture)
+- Data Collection and Scraping Techniques  (interactive coding)
+- Scraping as Art  (lecture)
+- Beautiful Soup (interactive coding)
+- Open(ish) Data Sources  (lecture)
+- Identifying Bias in your Data  (lecture)
+- Formatting: Writing the Proto-Prompts (activity)
+- Evaluating your data (interactive coding)
 
-### Howwork
+### Homework
 1. Write a script that builds structured data find a dataset online and convert it to a prompt
    1. Think about what problem you are trying to solve and what data you need to give it
    2. Format that data in a way you can parse from the output of an LLM
@@ -46,13 +46,13 @@
 - [This Program can give AI a sense of Ethics -Sometimes](./readings/program-give-ai-ethics-sometimes.pdf)
 
 # Week 3
-## Creating with LLMs (lecture)
-### Llama2 (lecture)
-### Uncensored Networks (lecture)
-### Llama + LoRas (interactive coding)
-### Tokenizer Poetry (activity)
-## Evaluating your Custom LLMs
-## Making ART with AI (discussion)
+- Creating with LLMs (lecture)
+- Llama2 (lecture)
+- Uncensored Networks (lecture)
+- Llama + LoRas (interactive coding)
+- Tokenizer Poetry (activity)
+- Evaluating your Custom LLMs
+- Making ART with AI (discussion)
 
 ### Readings DUE NEXT WEEK
 - [The Case for Outsourcing Morality to AI](./readings/philosophy-artificial-intelligence-responsibility-gap.pdf)
@@ -60,13 +60,14 @@
 - [Great promise but potential for peril](./readings/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role.pdf)
 
 # Week 4
-## Ethical Issues in AI
-### Bias: Implicit or Explicit
-### Privacy
-### Transparency and Explainability
-### Accountability
-### Security
-### Data Quality and Collection
-### Job Displacement
-### Environmental Impact
+- Ethical Issues in AI
+- Bias: Implicit or Explicit
+- Privacy
+- Transparency and Explainability
+- Accountability
+- Security
+- Data Quality and Collection
+- Job Displacement
+- Environmental Impact
+
 ## BOOKS
