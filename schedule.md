@@ -18,7 +18,7 @@
    3. # BOOK DUE WEEK 4
 
 #### Rendings DUE NEXT WEEK
-- [Scrapism A Manifesto](./readings/Scrapism-A-Manifesto.pdf) [Web](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-10734046/382464/Scrapism-A-Manifesto)
+- [Scrapism A Manifesto](./readings/Scrapism-A-Manifesto_2.pdf) [Web](https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-10734046/382464/Scrapism-A-Manifesto)
 - [A Radical Plan to make AI Good, Not Evil](./readings/anthropic-ai-chatbots-ethics.pdf)
   
 ### BOOKS DUE WEEK 4
