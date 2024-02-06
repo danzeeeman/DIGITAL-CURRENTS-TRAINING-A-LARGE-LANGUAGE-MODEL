@@ -42,6 +42,7 @@
    3. Due Week 4
 
 #### Readings DUE NEXT WEEK
+- [Harvard Law Review Google v Oracle-America](./readings/google-v-oracle-america.pdf)
 - [The impact of artificial intelligence on human society and bioethics](./readings/TCMJ-32-339.pdf)
 - [This Program can give AI a sense of Ethics -Sometimes](./readings/program-give-ai-ethics-sometimes.pdf)
 
@@ -58,6 +59,7 @@
 - [The Case for Outsourcing Morality to AI](./readings/philosophy-artificial-intelligence-responsibility-gap.pdf)
 - [A Radical Plan to make AI Good, Not Evil](./readings/anthropic-ai-chatbots-ethics.pdf)
 - [Great promise but potential for peril](./readings/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role.pdf)
+- [The impact of artificial intelligence on human society and bioethics](./readings/TCMJ-32-339.pdf)
 
 # Week 4
 - Ethical Issues in AI
