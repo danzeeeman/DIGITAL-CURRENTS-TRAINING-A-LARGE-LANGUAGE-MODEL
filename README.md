@@ -38,7 +38,7 @@ Room 1108
 - Discussion: What do you hope to take away?
 
 ## Resources
-- [Syllabus](syllabus.pdf)
+- [Syllabus](Syllabus SPRING 2024.pdf)
 - [Schedule](schedule.md)
 - [Week 1](00_week_01.md)
 - [Week 2](01_week_02.md)
