@@ -1,0 +1,13 @@
+tqdm
+PyYAML
+pandas
+mkdocs-material
+torch
+datasets
+evaluate
+transformers[sentencepiece]
+accelerate
+huggingface_hub
+zstandard
+psutil
+sklearn
