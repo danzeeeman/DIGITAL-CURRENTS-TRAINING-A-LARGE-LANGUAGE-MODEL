@@ -1,6 +1,6 @@
 {
-    "data": {
-        "train": [
+    "train": {
+        "text": [
             "Question: What is an observation about a squire in central park? \n Output: Observed a squirrel with a cache of peanuts that he was eating. Strangely, none of the other squirrels were eating those peanuts.\n",
             "Question: What is an observation about a squire in central park? \n Output: Lots of pedestrians and vehicular traffic, food vendors, bike rental guys, city workers doing something with the fountain in Columbus Circle, but not a squirrel to be seen. \n\nA bike rental worker telling prospective customers about Central Park, \"... 21 playgrounds, three restaurants ...\" -- no quote on the number of squirrels, not yet!\n",
             "Question: What is an observation about a squire in central park? \n Output: Three of the pedicab drivers (14 pedicabs lined up) put out mats to pray. White Rolls Royce and stretch limo waiting for bridal party. Lots of birds bathing in the fountains in Columbus Circle.\n",
